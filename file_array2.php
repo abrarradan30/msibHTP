@@ -62,7 +62,8 @@ $no++;
     ?>
 <tr> 
     <th colspan="4"> <?= $ket ?> </th>
-    <th> <?= $hasil ?> </th>    
+    <th> <?= $hasil ?> </th>
+</tr>    
 <?php } ?>
 </tfoot>
 </table>
